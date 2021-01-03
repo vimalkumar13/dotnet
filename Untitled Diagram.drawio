@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T21:53:49.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="LcK5JtQv6I-xep4Y6BLT" type="github"><diagram id="GqxxIH69UQBcbuTXEkUY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-03T22:11:13.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="q-c5oz7SuxANiTtXpxxm" version="14.1.8" type="github">
+  <diagram id="GqxxIH69UQBcbuTXEkUY" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isihtaOWCpTYdrR2E738-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-1" target="isihtaOWCpTYdrR2E738-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-1" target="isihtaOWCpTYdrR2E738-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-1" value="&lt;span&gt;Suceesfully LoggedIn&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-2" value="&amp;nbsp;employee details page" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.075;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-5" target="isihtaOWCpTYdrR2E738-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-5" value="Login Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-14" target="isihtaOWCpTYdrR2E738-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="585" />
+              <mxPoint x="280" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-14" value="Goal Settings, Quarterly Review , Final Review along with basic employee details" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-15" value="Employee can able to update the goal settings and reviews" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="205" y="630" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="isihtaOWCpTYdrR2E738-16" target="isihtaOWCpTYdrR2E738-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="790" />
+              <mxPoint x="170" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-16" value="Employee can Logout" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="isihtaOWCpTYdrR2E738-21" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;Basic&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Employee Viewpoint&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="640" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
